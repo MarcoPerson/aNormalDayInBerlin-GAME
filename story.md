@@ -10,37 +10,37 @@ This is where all the investigation takes place: the bars and where the suspects
 
 ### Bars
 
-1. The Temple Beer - Specialist beer restaurant in Berlin
+A. The Temple Beer - Specialist beer restaurant in Berlin
 
-2. Beer Garden - Popular beer garden in Berlin
+B. Beer Garden - Popular beer garden in Berlin
 
-3. Beer Friendly Bar - A bar known for its beer selection
+C. Beer Friendly Bar - A bar known for its beer selection
 
-4. Beer-Alcohol Bar (Miracle) - A bar specializing in beer and alcohol
+D. Beer-Alcohol Bar (Miracle) - A bar specializing in beer and alcohol
 
 ### Homes
 
-A. Johann Muller
+E. Johann Muller
     Occupation: Bar boss (Owner of The Temple Beer)
     Residence: The Beer Master's Hideaway
     Workplace: The Temple Beer
 
-B. Fritz Goetze
+F. Fritz Goetze
     Occupation: Unemployed but wants to create his own beer company
     Residence: In his parent's place
     Workplace: The Brewery Dream Factory
 
-C. Ursula Springman
+G. Ursula Springman
     Occupation: Music performer at different bars
     Residence: Imagination Building
     Workplace: The Melody Lab
 
-D. Hilde Wagner
+H. Hilde Wagner
     Occupation: Retired
     Residence: Goethe neighborhood
     Workplace: The Relaxation Retreat
 
-E. Angela Schneider
+I. Angela Schneider
     Occupation: Bar boss (Owner of Beer-Alcohol Bar - Miracle)
     Residence: The Brewmaster's Oasis
     Workplace: Beer-Alcohol Bar - Miracle
